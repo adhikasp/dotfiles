@@ -1,0 +1,37 @@
+{
+	"last_version": 1119,
+	"project_dir": "/home/adhikasp",
+	"recent":
+	[
+		{
+			"expanded_refs":
+			{
+				"refs/tags/": true,
+				"refs/tags/adhikasp": true
+			},
+			"ignore_diff_whitespace": false,
+			"location_bar_visible": true,
+			"path": "/home/adhikasp/Workspace/linux/linux-git",
+			"table_of_contents_selected": false,
+			"table_of_contents_tree_mode": false,
+			"window_height": 526.0,
+			"window_width": 1916.0
+		}
+	],
+	"select_repository":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"windows":
+	[
+		{
+			"path": "/home/adhikasp/Workspace/linux/linux-git",
+			"position": "0,0,0,0,0,0,0,1916,526,1920,1080"
+		}
+	]
+}
